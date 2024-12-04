@@ -1,9 +1,19 @@
 {
-    "cancel.intent": [
-        "(befehl|kommando) (vergessen|zur\u00fccknehmen|aufheben|abbrechen|zur\u00fcck|l\u00f6schen)",
-        "(vergess|vergiss|vergesse|l\u00f6sche) (es|(den|diesen) befehl|(dieses|das|) kommando)",
-        "(nehme|nehm|nimm) (den|diesen|) (befehl|kommando) zur\u00fcck",
-        "(breche|brech|brich) ((den|diesen|) befehl|(dieses|das|) kommando) ab",
-        "(hebe|heb) ((den|diesen|) befehl|(dieses|das|) kommando) auf"
-    ]
+  "cancel.intent": [
+    "(befehl|kommando) (vergessen|zurücknehmen|aufheben|abbrechen|zurück|löschen)",
+    "(vergess|vergiss|vergesse|lösche) (es|(den|diesen) befehl|(dieses|das|) kommando)",
+    "(nehme|nehm|nimm) (den|diesen|) (befehl|kommando) zurück",
+    "(breche|brech|brich) ((den|diesen|) befehl|(dieses|das|) kommando) ab",
+    "(hebe|heb) ((den|diesen|) befehl|(dieses|das|) kommando) auf",
+    "Befehl Abbrechen",
+    "vergiss das",
+    "vergiss diesen Befehl",
+    "vergiss diesen Befehl",
+    "Vergiss es",
+    "vergiss das",
+    "vergiss Befehl",
+    "vergiss Kommando",
+    "vergiss diesen Befehl",
+    "vergiss diesen Befehl"
+  ]
 }
