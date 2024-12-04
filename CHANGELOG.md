@@ -1,12 +1,25 @@
 # Changelog
 
-## [0.2.2a1](https://github.com/OpenVoiceOS/ovos-utterance-plugin-cancel/tree/0.2.2a1) (2024-10-16)
+## [0.2.3a1](https://github.com/OpenVoiceOS/ovos-utterance-plugin-cancel/tree/0.2.3a1) (2024-12-04)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-utterance-plugin-cancel/compare/0.2.1...0.2.2a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-utterance-plugin-cancel/compare/0.2.3a1...0.2.3a1)
 
 **Merged pull requests:**
 
-- fix:standardize\_lang [\#12](https://github.com/OpenVoiceOS/ovos-utterance-plugin-cancel/pull/12) ([JarbasAl](https://github.com/JarbasAl))
+- de-de/translate [\#16](https://github.com/OpenVoiceOS/ovos-utterance-plugin-cancel/pull/16) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
+- added italian [\#15](https://github.com/OpenVoiceOS/ovos-utterance-plugin-cancel/pull/15) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
+
+## [0.2.3a1](https://github.com/OpenVoiceOS/ovos-utterance-plugin-cancel/tree/0.2.3a1) (2024-11-02)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-utterance-plugin-cancel/compare/V0.2.2...0.2.3a1)
+
+**Merged pull requests:**
+
+- da-dk/translate [\#14](https://github.com/OpenVoiceOS/ovos-utterance-plugin-cancel/pull/14) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
+
+## [V0.2.2](https://github.com/OpenVoiceOS/ovos-utterance-plugin-cancel/tree/V0.2.2) (2024-10-16)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-utterance-plugin-cancel/compare/0.2.2...V0.2.2)
 
 
 
