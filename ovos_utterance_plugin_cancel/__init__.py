@@ -30,7 +30,7 @@ from functools import lru_cache
 from ovos_plugin_manager.templates.transformers import UtteranceTransformer
 from ovos_utils.log import LOG
 from ovos_utils.lang import standardize_lang_tag
-from ovos_utils.bracket_expansion import expand_options
+from ovos_utils.bracket_expansion import expand_template
 from langcodes import closest_match
 
 
@@ -55,7 +55,7 @@ class NevermindPlugin(UtteranceTransformer):
                 for line in f.readlines():
                     if line.startswith("#"):
                         continue
-                    lines.extend(expand_options(line))
+                    lines.extend(expand_template(line))
             return lines
         else:
             LOG.warning(f"cancel.dialog not available for {lang}")

@@ -1,17 +1,19 @@
 {
-    "cancel.intent": [
-        "annullare che",
-        "dimenticarlo",
-        "annullarlo",
-        "non importa l'ordine",
-        "dimenticare che",
-        "annullamento dell'ordine",
-        "annullare l'ordine",
-        "non importa che",
-        "annullare il comando",
-        "dimentica il comando",
-        "comando di annullamento",
-        "dimenticare il comando",
-        "dimenticare l'ordine"
-    ]
+  "cancel.intent": [
+    "annulla(lo|) (quello| l'ultima cosa|)",
+    "dimentica(lo|) (quello| l'ultima cosa|)",
+    "annulla quell'ordine",
+    "annulla quel comando",
+    "annulla l'ordine",
+    "annulla il comando",
+    "non importa (di quello| dell'ultima cosa|)",
+    "non importa di quell'ordine",
+    "non importa di quel comando",
+    "(|dimentica|dimenticalo|dimentica quello|dimentica l'ultima cosa)",
+    "(lascia perdere|lascialo perdere|lascia perdere quello|lascia perdere l'ultima cosa)",
+    "(dimentica|lascia perdere) l'ordine",
+    "(dimentica|lascia perdere) il comando",
+    "(dimentica|lascia perdere) quell'ordine",
+    "(dimentica|lascia perdere) quel comando"
+  ]
 }
